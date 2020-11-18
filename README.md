@@ -1,5 +1,5 @@
 ### Hiii 👋
-## I am Sriya Vysyaraju, currently pursuing final year B.Tech(CSE) from GITAM UNIVERSITY,Visakhapatanam.
+#### I am Sriya Vysyaraju, currently pursuing final year B.Tech(CSE) from GITAM UNIVERSITY,Visakhapatanam.
 
 
 * 🔭 I’m currently working on machine learning projects.
